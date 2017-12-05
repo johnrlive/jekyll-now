@@ -4,7 +4,7 @@ title: Consulting
 permalink: /consulting/
 ---
 
-### I offer Bitcoin consulting services in-person or via Skype.
+# I offer Bitcoin consulting services in-person or via Skype.
 
 I can:
 
@@ -18,6 +18,6 @@ In the email, please include what you'd like to discuss. This will give me insig
 
 This is not a free consulting service. Please do not email with general help requests.
 
-### Contact me
+# Contact me
 
 [email@domain.com](mailto:email@domain.com)
