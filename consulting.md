@@ -20,4 +20,4 @@ This is not a free consulting service. Please do not email with general help req
 
 #### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[john@addlocal.com](mailto:john@addlocal.com)
